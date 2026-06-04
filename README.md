@@ -1,6 +1,7 @@
+
 # Montana-Pygame-IDE
 
-
+<img width="1359" height="697" alt="Screenshot 2026-06-04 000657" src="https://github.com/user-attachments/assets/493685bf-98d1-46e2-b28b-18bb40d52021" />
 
 Build Pygame projects faster with a clean code editor, project workspace tools, debug helpers, themed UI, and an AI Coach designed for game development.
 
@@ -30,6 +31,7 @@ Markov Workflow
 
 The app also uses a simple Markov-style workflow idea. That means it looks at what usually comes next in a coding session. If you ask for a fix, the next step is usually finding the cause. If a patch is created, the next step is usually review or testing. If a plan is accepted, the next step is usually the first safe edit. It helps the app keep the coding flow organized.
 
+<img width="1174" height="702" alt="Screenshot 2026-06-04 000525" src="https://github.com/user-attachments/assets/abcf8c87-5f30-4e43-a759-2cbe8f21a5ff" />
 
 
 Main features
@@ -73,6 +75,7 @@ You can ask questions like:
 - Suggest a safe patch for this file.
 
 - The AI Coach is meant to support your workflow, not replace your judgment. Always review changes before using them in your project.
+
 
 
 Response window
